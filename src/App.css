@@ -125,3 +125,6 @@ button:active {
   letter-spacing: 1px;
   font-weight: 200;
 }
+.row{
+  flex-wrap: nowrap;
+}
